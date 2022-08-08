@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./app.9b02ce01.js";const g='{"title":"Privacy","description":"","frontmatter":{},"headers":[{"level":3,"title":"Privacy","slug":"privacy"}],"relativePath":"privacy.md","lastUpdated":1659954273525}',r={},a=s('',4),n=[a];function i(l,c,d,p,u,h){return o(),t("div",null,n)}var f=e(r,[["render",i]]);export{g as __pageData,f as default};

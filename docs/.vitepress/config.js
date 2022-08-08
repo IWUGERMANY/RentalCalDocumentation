@@ -3,7 +3,7 @@ module.exports = {
   description: "RentalCal Webtool Documentation",
   head: [
     ['link', { rel: "stylesheet", href: "/fonts.css"}],
-    ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
+    ['link', { rel: "shortcut icon", href: "/favicons/favicon.png"}],
   ],
   themeConfig: {
     nav: [
