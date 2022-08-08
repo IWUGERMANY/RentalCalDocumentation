@@ -9,6 +9,6 @@ In the following, different chapters are only used for freehand mode and assiste
 
 ### General Project Data (Freehand and Assisted Mode)
 
-<ImageCaption src="./assets/generalprojectdata.png" caption="Figure 6: Project data"></ImageCaption>
+<ImageCaption src="/img/generalprojectdata.png" caption="Figure 6: Project data"></ImageCaption>
 
 When using the tool for the first time, you will be asked to enter your project details at this point (see Fig. 6). If you would like to be informed about subsequent information and updates, your e-mail address must be provided. It is not necessary to enter a password, as no data is stored on a RentalCal server.

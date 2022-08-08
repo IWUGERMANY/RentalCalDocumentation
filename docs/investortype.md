@@ -8,4 +8,4 @@ As already mentioned, the user has the possibility to display help texts for inp
 Please fill in all fields. We would like to point out that the **calculation horizon** in particular can have a decisive influence on the profitability of energy modernisation. Since energy efficiency measures are still a long-term investment, too short periods under consideration can lead to an incorrect assessment of the profitability. Please also note that the chosen calculation horizon also plays a role for a possible sale (see Chapter 4.19.).
 After entering or selecting all relevant data, you can continue. If you have not made an entry that is relevant for the calculation result, you will be informed before you can continue.
 
-<ImageCaption src="./assets/invchars.png" caption="Figure 8: Investor characteristics"></ImageCaption>
+<ImageCaption src="/img/invchars.png" caption="Figure 8: Investor characteristics"></ImageCaption>

@@ -6,7 +6,7 @@ import ImageCaption from '../components/Imagecaption.vue'
 
 As illustrated in 3.4., the tool is divided into two different streams according to the knowledge and data available for the user. In this screen, the two user groups are explained and data requirements for each mode can be downloaded and printed by clicking the respective buttons. After reading the information you need to choose one mode and continue by clicking on it. You will always see in which **mode you currently are** by looking in the upper right corner.
 
-<ImageCaption src="./assets/modeselection.png" caption="Figure 5: Mode selection"></ImageCaption>
+<ImageCaption src="/img/modeselection.png" caption="Figure 5: Mode selection"></ImageCaption>
 
 #### Mode Explanation:
 

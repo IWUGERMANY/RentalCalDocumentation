@@ -4,7 +4,7 @@
 
 **RentalCal Consortium**
 
-![RentalCal Logo](/assets/rclogo.png)
+![RentalCal Logo](/img/rclogo.png)
 
 #### Project partners
 
@@ -21,7 +21,7 @@
 - Universidad de Alicante (Paloma Taltavull)
 - University of Cambridge (Dr. Franz Fürst, Donald Stevens, Hassan Adan)
 
-![EU Logo](/assets/euflag.png)
+![EU Logo](/img/euflag.png)
 
 Funded by the European Union
 
@@ -29,6 +29,6 @@ H2020-EE-2014-2015: H2020-EE-2014-3-MarketUptake
 
 Tool version v2.0 funded by
 
-![EU Logo](/assets/zukunftbaulogo.png)
+![EU Logo](/img/zukunftbaulogo.png)
 
 All rights reserved

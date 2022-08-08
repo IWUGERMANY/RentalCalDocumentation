@@ -7,7 +7,7 @@ import ImageCaption from '../components/Imagecaption.vue'
 The symbols at the upper edge of the input area (see Fig. 7) are intended to serve **help** during further processing and to facilitate the operation with the tool.
 Please select the **location of your property** by selecting the respective country from a list. Please do not use your personal location if you operate from another country.
 
-<ImageCaption src="./assets/propertylocation.png" caption="Figure 7: Property location"></ImageCaption>
+<ImageCaption src="/img/propertylocation.png" caption="Figure 7: Property location"></ImageCaption>
 
 Assisted mode: In the country selection "Spain", you must, in contrast to all other countries, also specify the climate zone applicable to the building location.
 

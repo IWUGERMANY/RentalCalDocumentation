@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as r}from"./app.9b02ce01.js";const m='{"title":"Terms of Use","description":"","frontmatter":{},"headers":[{"level":3,"title":"Terms of Use","slug":"terms-of-use"}],"relativePath":"terms.md","lastUpdated":1659954273526}',s={},a=r('',5),n=[a];function i(l,d,c,u,h,f){return o(),t("div",null,n)}var g=e(s,[["render",i]]);export{m as __pageData,g as default};

@@ -6,7 +6,7 @@ import ImageCaption from '../components/Imagecaption.vue'
 
 The navigation follows common web-based applications and is intuitive to use. The menu or screen area is divided into several areas (see Fig. 2). This allows easy navigation through the software application. To navigate between individual info screens and to correct values, please use the blue buttons ("Continue", "Back") and the red one ("Restore default values") at the bottom of the respective input page (see Fig. 3).
 
-<ImageCaption src="./assets/basicnav.png" caption="Figure 2: RentalCal Tool"></ImageCaption>
+<ImageCaption src="/img/basicnav.png" caption="Figure 2: RentalCal Tool"></ImageCaption>
 
 **Section 1:** You can **select the language** (Danish, German, English, French, Polish, Spanish, Czech). The selected language can be seen in the upper right corner of the screen.
 

@@ -1,23 +1,21 @@
 module.exports = {
-  title: "RentalCal",
-  description: "",
+  title: "RentalCal Documentation",
+  description: "RentalCal Webtool Documentation",
+  head: [
+    ['link', { rel: "stylesheet", href: "/fonts.css"}],
+    ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
+  ],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Imprint", link: "/imprint/" },
-      { text: "Contact", link: "/contact" },
+      { text: "Contact", link: "/contact/" },
     ],
     sidebar: [
       {
         text: "The RentalCal Project",
         link: "/",
-        children: [
-          {
-            text: "",
-            link: "/about/our-story",
-          },
-        ],
       },
       {
         text: "Introduction to the RentalCal Tool",
